@@ -2,6 +2,7 @@ import revolt
 import asyncio
 ## となりのこまんど実効しろ　pip install revolt
 # Revoltボットのトークンを入力してください
+#ダサく
 TOKEN = "your_bot_token"
 
 # Revoltクライアントを作成します
