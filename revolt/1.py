@@ -1,6 +1,6 @@
 import revolt
 import asyncio
-
+## となりのこまんど実効しろ　pip install revolt
 # Revoltボットのトークンを入力してください
 TOKEN = "your_bot_token"
 
